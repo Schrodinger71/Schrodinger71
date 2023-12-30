@@ -14,7 +14,7 @@
 
 <h2><b>📚 Technologies and tools</b></h2>
   <p>
-    <img src="assets/icons8-c++-48.png", src="assets/icons8-github.gif", src="assets/icons8-net-framework-48.png", src="assets/icons8-логотип-c-sharp-48.png", src="assets/icons8-питон.gif"  />
+    <img src="assets/icons8-c++-48.png"/> <img src="assets/icons8-github.gif"/> <img src="assets/icons8-net-framework-48.png"/> <img src="assets/icons8-логотип-c-sharp-48.png"/> <img src="assets/icons8-питон.gif"  />
   </p>
 </details>
 
