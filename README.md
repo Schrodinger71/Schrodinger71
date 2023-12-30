@@ -4,7 +4,7 @@
  <img width="600" src="assets/github-snake.svg" alt="snake"/>
 </p>
 
-  <summary><h2><b>⭐GitHub stats</b></h2></summary>
+  <h2><b>⭐GitHub stats</b></h2>
   <p>
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Schrodinger71&theme=dracula&layout=compact&hide_border=true&bg_color=00000000" />
    <br>
