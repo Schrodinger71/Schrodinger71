@@ -14,7 +14,7 @@
 
 <h2><b>📚 Technologies and tools</b></h2>
   <p>
-    <img src="github-logo_icon-icons.com_73546.png" /> <img src="assets/icons8-net-framework-48.png" /> <img src="assets/icons8-c++-48.png" /> <img src="assets/icons8-логотип-c-sharp-48.png" /> <img src="assets/python_94570.png"  />
+    <img src="assets/github-logo_icon-icons.com_73546.png" /> <img src="assets/icons8-net-framework-48.png" /> <img src="assets/icons8-c++-48.png" /> <img src="assets/icons8-логотип-c-sharp-48.png" /> <img src="assets/python_94570.png"  />
   </p>
 </details>
 
