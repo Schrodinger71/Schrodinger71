@@ -1,7 +1,11 @@
 <h1 align="center">👋 Hello! I'm Schrodinger71 </h1>
 
 <p align="center">
+ <!--
  <img width="600" src="assets/github-snake.svg" alt="snake"/>
+ -->
+ <img src="https://github.com/Schrodinger71/Schrodinger71/blob/main/assets/alastor-hazbin-hotel-fire.gif" width="1024" height="564" />
+
 </p>
 
   <h2><b>⭐GitHub stats</b></h2>
