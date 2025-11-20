@@ -22,6 +22,8 @@ Always experimenting, always improving.
 
 ## 📚 Technologies & Tools
 
+## 📚 Technologies & Tools
+
 <p align="center"> 
 
   <!-- === Languages === -->
@@ -42,16 +44,22 @@ Always experimenting, always improving.
   <img src="https://img.shields.io/badge/Docker_Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
 
+  <!-- === Discord Development === -->
+  <img src="https://img.shields.io/badge/Discord_API-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+
   <!-- === Tools & OS === -->
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
   <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" />
   <img src="https://img.shields.io/badge/Windows_10-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
 
+  <!-- === Formats === -->
+  <img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white" />
+  <img src="https://img.shields.io/badge/YAML-CB171E?style=for-the-badge&logo=yaml&logoColor=white" />
+
 </p>
-
-
 
 
 ## 🔭 Currently Working On:
