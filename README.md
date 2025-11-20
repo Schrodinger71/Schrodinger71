@@ -22,8 +22,6 @@ Always experimenting, always improving.
 
 ## 📚 Technologies & Tools
 
-## 📚 Technologies & Tools
-
 <p align="center"> 
 
   <!-- === Languages === -->
