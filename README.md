@@ -5,7 +5,13 @@
 </p>
 
 ## About Me
-I am a developer with experience working with a range of technologies. My main areas of expertise are C++, C#, Python, and .NET. Currently, I'm working on my [Discord bot project](https://github.com/AdventureTimeSS14/Dev-bot)
+Midnight Coder (UTC+3) 🌙  
+Security Engineer 🔐  
+Bot Architect & Operator 🤖  
+Docker Enthusiast 🐳 | DevOps Builder 📦  
+
+I work with C++, C#, Python and love building automation tools, security systems, bots and infrastructure.  
+Always experimenting, always improving.
 
 ## ⭐ GitHub Stats
 <p align="center">
@@ -15,27 +21,48 @@ I am a developer with experience working with a range of technologies. My main a
 </p>
 
 ## 📚 Technologies & Tools
-<p align="center">
-  <img src="assets/github-logo_icon-icons.com_73546.png" width="50" /> 
-  <img src="assets/icons8-net-framework-48.png" width="50" />  
-  <img src="assets/icons8-visual-studio-50.png" width="50" />  
-  <img src="assets/icons8-c++-48.png" width="50" />  
-  <img src="assets/icons8-логотип-c-sharp-48.png" width="50" />  
-  <img src="assets/python_94570.png" width="50" />
+
+<p align="center"> 
+
+  <!-- === Languages === -->
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+
+  <!-- === Frameworks / IDE === -->
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+
+  <!-- === Databases === -->
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
+
+  <!-- === DevOps & Infrastructure === -->
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker_Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
+
+  <!-- === Tools & OS === -->
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Windows_10-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+
 </p>
 
-## 🔭 Currently Working On:
-- [Dev-bot](https://github.com/AdventureTimeSS14/Dev-bot)
-- [Space station ADT](https://github.com/AdventureTimeSS14/space_station_ADT)
-- [Hellflare VPN](https://github.com/Hellflare-VPN-Project)
 
-<!--
-## 🌱 Currently Learning:
-- [New technology or programming language]
--->
+
+
+## 🔭 Currently Working On:
+- Private security tooling  
+- Automation systems & bot infrastructure  
+- DevOps & container-based setups  
+- Experimental personal projects
 
 ## 👯 Want to Collaborate?
-If you're interested in collaborating on projects or need help, feel free to reach out!
+If you're interested in security, bots, DevOps, backend systems or just want to build something cool — feel free to reach out!
 
 ## ⚡ Fun Fact:
-- I'm passionate about experimenting with new technologies and always looking for ways to improve my development process.
+- I love late–night coding and building systems that feel *alive*.
+
