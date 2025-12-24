@@ -10,7 +10,7 @@ Security Engineer 🔐
 Bot Architect & Operator 🤖  
 Docker Enthusiast 🐳 | DevOps Builder 📦  
 
-I work with C++, C#, Python and love building automation tools, security systems, bots and infrastructure.  
+I work with C++, C#, Python, Go and love building automation tools, security systems, bots and infrastructure.  
 Always experimenting, always improving.
 
 ## ⭐ GitHub Stats
