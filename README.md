@@ -15,9 +15,9 @@ Always experimenting, always improving.
 
 ## ⭐ GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Schrodinger71&theme=dracula&layout=compact&hide_border=true&bg_color=00000000" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Schrodinger71&theme=dracula&layout=compact&hide_border=true&bg_color=00000000" />
   <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=Schrodinger71&count_private=true&show_icons=true&theme=dracula&hide_border=true&bg_color=00000000" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=schrodinger71&count_private=true&show_icons=true&theme=dracula&hide_border=true&bg_color=00000000" />
 </p>
 
 ## 📚 Technologies & Tools
