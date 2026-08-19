@@ -11,7 +11,7 @@ Backend / Security / DevOps engineer. UTC+3.
 | Python                  | Go                  | Rust             |
 | C# (SS14 game dev, 3y+) | Docker, Linux       | C++ (university) |
 | Git, GitHub Actions     | PostgreSQL, SQLite  |                  |
-| Discord API             |                     |                  |
+| Discord API             | 1C Admin            |                  |
 
 **Focus:** security tooling, bot infrastructure, automation.
 
